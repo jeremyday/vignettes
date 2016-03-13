@@ -1,0 +1,33 @@
+baseurl: http://profjd.com/vignettes/
+languageCode: en-us
+title: Vignettes
+theme: ghostwriter
+author: Jeremy Day
+copyright: Copyright (c) 2016 Jeremy Day
+canonifyURLs: true
+
+taxonomies:
+  tag: tags
+#  category: categories
+#  book: books
+#  author: authors
+#  album: albums
+
+metaDataFormat: yml
+
+# ghostwriter-specific properties.
+disqusShortname: skinnylumberjack
+Author:
+  name: Jeremy Day
+  profile: http://skinnylumberjack.com
+Params:
+  intro: true
+  headline: Miscellaneous Vignettes
+  description: >
+    Random story, character, and location fragments I write as I work on getting the kinks out of my writing.
+
+    The idea is to try to write a little something each day. I'm not striving for any sort of day-to-day cohesion or linearity. I just want to start getting words down on "paper".
+  github: https://github.com/jeremyday
+  linkedin: https://www.linkedin.com/in/jeremyday
+  gplus: https://plus.google.com/+jeremyday0
+  twitter: https://twitter.com/jeremyday
