@@ -1,6 +1,6 @@
 ---
 date: 2016-10-03T19:55:01-05:00
-tags: []
+tags: ['research', 'technology']
 title: Smart Lighting Notes
 ---
 
