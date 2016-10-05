@@ -39,7 +39,11 @@ Belkin's WeMo line of home automation products span much more than just lighting
 
 # [SmartThings Lighting](https://www.smartthings.com/uses/lighting-energy)
 
+SmartThings does not have its own lighting. Rather, it can host a bunch of lights from other services, including the Philips Hue. Additionally, SmartThings has a variety of really useful sensors, such as a motion sensor, a magnet-powered door or window sensor, and a presence sensor. The presence sensor sounds particularly interesting, because I can absolutely imagine automatically turning on lights when I come home at night.
+
 ## Notes/Reviews
 
-1.
+1. [Cnet SmartThings Review](https://www.cnet.com/products/smartthings-know-and-control-your-home-kit/review/) - An old review, but I think most of the information is still accurate.
+1. [PC Mag SmartThings Hub Review](http://www.pcmag.com/article2/0,2817,2456422,00.asp)
+1. [Cnet SmartThings (Second Generation) Review](https://www.cnet.com/products/smartthings-hub-and-sensors/) - The second generation SmartThings hub sounds pretty useful, but it sounds like SmartThings has had some [serious glitch issues](https://www.cnet.com/news/samsungs-smartthings-smart-home-push-hits-disconnect/) over recent months. I need to find out if these issues have been resolved.
 1. [IFTTT SmartThings Channel](https://ifttt.com/smartthings)
