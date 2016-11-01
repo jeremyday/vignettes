@@ -18,6 +18,10 @@ I am _really_ looking forward to this race. I have four finishes at Bandera and 
 
 I've never run this race before but I know a bunch of people that run it every year and really love it. The pictures look amazing, so I'd really like to make it.
 
+## 2017.02.24 - [LOViT 100](http://www.runlovit.com/)
+
+I ran the inaugural LOViT 100k a few years ago and the inaugural 100 miler the following year. It's a good time of year to be in the mountains outside of Hot Springs, so I may be back this coming February.
+
 ## 2017.03.04 - [Tinajas 100k](http://www.tejastrails.com/tinajas/)
 
 This race sounds extremely interesting. Like [Cactus Rose](http://www.tejastrails.com/cactus-rose/), the aid stations are not manned and they contain only water, ice, and shelter. The terrain looks suitably rugged for a race building up to Moab 200. I suspect I could plan the aid station so I have serious aid every 10-20 miles, much like the aid at Moab, while never really being far from help if necessary.
