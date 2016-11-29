@@ -26,7 +26,7 @@ I ran the inaugural LOViT 100k a few years ago and the inaugural 100 miler the f
 
 This race sounds extremely interesting. Like [Cactus Rose](http://www.tejastrails.com/cactus-rose/), the aid stations are not manned and they contain only water, ice, and shelter. The terrain looks suitably rugged for a race building up to Moab 200. I suspect I could plan the aid station so I have serious aid every 10-20 miles, much like the aid at Moab, while never really being far from help if necessary.
 
-## 2017.03.17 - 2017.03.19 [3 Days of Syllamo](http://www.syllamo.org/3days/)
+## 2017.03.17 - 2017.03.19 - [3 Days of Syllamo](http://www.syllamo.org/3days/)
 
 3 Days of Syllamo is a 50k one day, a 50 miler the next day, and a 20k the last day. I've run it a couple of times and it's always a great event. It might make for some great gear testing and good practice running on tired legs. A bonus is that I know a ton of people that go every year, so it would be fun to hang out with folks I don't see very often.
 
