@@ -12,6 +12,7 @@ taxonomies:
 #  book: books
 #  author: authors
 #  album: albums
+#  workout: workouts
 
 metaDataFormat: yml
 
@@ -28,6 +29,8 @@ Params:
 
     The idea is to try to write a little something each day. I'm not striving for any sort of day-to-day cohesion or linearity. I just want to start getting words down on "paper".
   github: https://github.com/jeremyday
+  gitlab: https://gitlab.com/jeremyday
   linkedin: https://www.linkedin.com/in/jeremyday
   gplus: https://plus.google.com/+jeremyday0
   twitter: https://twitter.com/jeremyday
+  opengraph: true  
